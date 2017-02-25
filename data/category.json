@@ -1,0 +1,27 @@
+[
+  {
+	"name":"Electronics",
+	"items": [
+	  {"name":"Macbook", "brand": "Apple", "price": "60000", "image":"Img/3.jpeg"},
+	  {"name":"Mouse", "brand":  "Hp", "price": "4000", "image":"Img/4.png"}
+  	]
+  },
+  {
+	"name":"Books",
+	"items": [
+	  {"name":"Da Vinci Code", "author":"Dan Brown", "price": "600", "image": "Img/5.jpeg"},
+	  {"name":"Lord of The Rings", "author":"JRR Tolkien", "price": "1200", "image": "Img/8.jpeg"},
+	  {"name":"Batman", "price": "230", "image": "Img/7.jpeg"},
+	  {"name":"Wings of Fire", "author":"Dr. APJ Abdul Kalam", "price": "1200", "image": "Img/6.jpeg"},
+	  {"name":"Playing it My Way", "author":"Sachin Tendulkar", "price": "1500", "image": "Img/9.jpeg"}
+	]
+  },
+  {
+	"name":"Clothes",
+	"items": [
+	  {"name":"Men's Shirt", "brand": "Arrow", "price": "2000", "image": "Img/10.jpeg"},
+	  {"name": "Men's Jeans", "brand":"Tommy Hilfiger", "price": "5000", "image": "Img/12.jpeg"},
+	  {"name": "Hat", "brand": "Louis Voutton", "price": "2560", "image": "Img/11.jpeg"}
+	]
+  }
+]
